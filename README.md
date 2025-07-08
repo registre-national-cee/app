@@ -32,3 +32,7 @@ Code source de la plateforme du registre national des Certificats d'Economies d'
 
 > [!IMPORTANT]  
 > Projet en cours d'investigation.
+
+## Technologies
+
+- Next.js
